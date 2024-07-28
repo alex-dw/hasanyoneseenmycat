@@ -22,6 +22,12 @@ h1 {
     unicode-bidi: isolate;
 }
 
+@media only screen and (max-width: 650px) {
+    h1 {
+      text-align: center;
+    }
+  }
+
 img {
     max-width: 100%;
 }
