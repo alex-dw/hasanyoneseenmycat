@@ -26,6 +26,10 @@ h1 {
     h1 {
       text-align: center;
     }
+
+    .p-location {
+        text-align: center;
+    }
   }
 
 img {
